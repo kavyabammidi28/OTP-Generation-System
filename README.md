@@ -24,4 +24,3 @@ A web-based application that securely generates and verifies **One-Time Password
 4. User enters OTP to verify
 5. Verified users stored in the database
 
-## 📁 Folder Structure
